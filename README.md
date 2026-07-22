@@ -3,8 +3,10 @@
 Spreadsheet available [here](https://docs.google.com/spreadsheets/d/1D33PtOp9ix_BTa8JgQ3QZ3IoFSiUBFrtRWr3PnhNojI/edit?gid=1634379805#gid=1634379805)
 
 ## Log and announcements 
++ 21/7: "The End of the American Dream? Inequality and Segregation in US Cities", "Structural Reinforcement Learning for Heterogeneous Agent Macroeconomics", "Micro MPCs and Macro Counterfactuals: The Case of the 2008 Rebates"
++ 14/7: "Strike while the Iron is Hot: Optimal Monetary Policy with a Nonlinear Phillips Curve", "Sentiments", "Clans, Guilds, and Markets: Apprenticeship Institutions and Growth in the Preindustrial Economy"
 + 7/7: "Robust Real Rate Rules", "Credit Rationing in Markets with Imperfect Information", "Equilibrium Imitation and Growth"
-+ 30/6: "Was the Wealth of Nations Determined in 1000 BC?"
++ 30/6: "Self-Fulfilling Debt Crises with Long Stagnations", "Shadow Banking and the Four Pillars of Traditional Financial Intermediation", "Was the Wealth of Nations Determined in 1000 BC?"
 + 9/6: "The Mainstreaming of Marx: Measuring the Effect of the Russian Revolution on Karl Marx’s Influence"
 + 2/6: "Bewley Banks", "Externalities in Economies with Imperfect Information and Incomplete Markets"
 + 26/5: "Fiscal Stimulus under Sovereign Risk", "How Costly Are Markups?", "Premature Deindustrialization"
