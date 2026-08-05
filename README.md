@@ -3,6 +3,8 @@
 Spreadsheet available [here](https://docs.google.com/spreadsheets/d/1D33PtOp9ix_BTa8JgQ3QZ3IoFSiUBFrtRWr3PnhNojI/edit?gid=1634379805#gid=1634379805)
 
 ## Log and announcements 
++ 4/8: "Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve", "The Price of War"
++ 28/7: "Dancing with the Stars: Innovation through Interactions", "Navigating by Falling Stars: Monetary Policy with Fiscally Driven Natural Rates", "Slow Learning"
 + 21/7: "The End of the American Dream? Inequality and Segregation in US Cities", "Structural Reinforcement Learning for Heterogeneous Agent Macroeconomics", "Micro MPCs and Macro Counterfactuals: The Case of the 2008 Rebates"
 + 14/7: "Strike while the Iron is Hot: Optimal Monetary Policy with a Nonlinear Phillips Curve", "Sentiments", "Clans, Guilds, and Markets: Apprenticeship Institutions and Growth in the Preindustrial Economy"
 + 7/7: "Robust Real Rate Rules", "Credit Rationing in Markets with Imperfect Information", "Equilibrium Imitation and Growth"
