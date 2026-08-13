@@ -3,6 +3,7 @@
 Spreadsheet available [here](https://docs.google.com/spreadsheets/d/1D33PtOp9ix_BTa8JgQ3QZ3IoFSiUBFrtRWr3PnhNojI/edit?gid=1634379805#gid=1634379805)
 
 ## Log and announcements 
++ 11/8: "Bayesian Inference in IV Regressions", "Minimum Wages, Efficiency, and Welfare", "Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth"
 + 4/8: "Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve", "The Price of War"
 + 28/7: "Dancing with the Stars: Innovation through Interactions", "Navigating by Falling Stars: Monetary Policy with Fiscally Driven Natural Rates", "Slow Learning"
 + 21/7: "The End of the American Dream? Inequality and Segregation in US Cities", "Structural Reinforcement Learning for Heterogeneous Agent Macroeconomics", "Micro MPCs and Macro Counterfactuals: The Case of the 2008 Rebates"
