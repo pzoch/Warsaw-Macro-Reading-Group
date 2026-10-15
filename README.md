@@ -1,8 +1,15 @@
 # Warsaw Macro Reading Group
 
-Spreadsheet available [here](https://docs.google.com/spreadsheets/d/1D33PtOp9ix_BTa8JgQ3QZ3IoFSiUBFrtRWr3PnhNojI/edit?gid=1634379805#gid=1634379805)
+Spreadsheet for 2026/2027 available [here](https://docs.google.com/spreadsheets/d/1U5Dq9cmGcYdDxlj2hwumGxJt9AZQVNXnj7p46zdGwM0/edit?gid=1607640479#gid=1607640479).
 
-## Log and announcements 
+Previous spreadsheet for 2025/2026 available [here](https://docs.google.com/spreadsheets/d/1D33PtOp9ix_BTa8JgQ3QZ3IoFSiUBFrtRWr3PnhNojI/edit?gid=1634379805#gid=1634379805).
+
+## Announcements
+
+The first meeting will take place on October 15 at 18:00 in room C-1A (SGH Building C, first floor).
+
+## Log
+
 + 11/8: "Bayesian Inference in IV Regressions", "Minimum Wages, Efficiency, and Welfare", "Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth"
 + 4/8: "Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve", "The Price of War"
 + 28/7: "Dancing with the Stars: Innovation through Interactions", "Navigating by Falling Stars: Monetary Policy with Fiscally Driven Natural Rates", "Slow Learning"
