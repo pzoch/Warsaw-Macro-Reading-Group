@@ -6,7 +6,9 @@ Previous spreadsheet for 2025/2026 available [here](https://docs.google.com/spre
 
 ## Announcements
 
-The first meeting will take place on October 15 at 18:00 in room C-1A (SGH Building C, first floor).
+> [!IMPORTANT]
+>
+> **FIRST MEETING** will take place on **October 15 at 18:00** in **room C-1A** (SGH Building C, first floor).
 
 ## Log
 
