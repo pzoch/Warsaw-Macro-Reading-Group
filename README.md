@@ -12,7 +12,14 @@ Previous spreadsheet for 2025/2026 available [here](https://docs.google.com/spre
 
 ## Log
 
+Meetings are grouped by academic year; dates are day/month.
+
+### 2026/2027
+
 + 15/10: "The Science of Monetary Policy: A New Keynesian Perspective", "Fiscal and Monetary Regimes"
+
+### 2025/2026
+
 + 11/8: "Bayesian Inference in IV Regressions", "Minimum Wages, Efficiency, and Welfare", "Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth"
 + 4/8: "Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve", "The Price of War"
 + 28/7: "Dancing with the Stars: Innovation through Interactions", "Navigating by Falling Stars: Monetary Policy with Fiscally Driven Natural Rates", "Slow Learning"
