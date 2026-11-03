@@ -8,7 +8,7 @@ Previous spreadsheet for 2025/2026 available [here](https://docs.google.com/spre
 
 > [!IMPORTANT]
 >
-> **NEXT MEETING** will take place on **November 5 at 18:00**. **Room TBA**.
+> **NEXT MEETING** will take place on **November 5 at 18:00** in **room C-1A** (SGH Building C, first floor).
 
 ## Log
 
