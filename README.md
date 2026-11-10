@@ -8,7 +8,7 @@ Previous spreadsheet for 2025/2026 available [here](https://docs.google.com/spre
 
 > [!IMPORTANT]
 >
-> **NEXT MEETING** will take place on **November 5 at 18:00** in **room C-1A** (SGH Building C, first floor).
+> **NEXT MEETING** will take place on **November 19 at 18:00** (**room TBA**).
 
 ## Log
 
@@ -16,6 +16,7 @@ Meetings are grouped by academic year; dates are day/month.
 
 ### 2026/2027
 
++ 5/11: "Stochastic Implications of the Life Cycle-Permanent Income Hypothesis: Theory and Evidence", "The Relation between Price and Marginal Cost in U.S. Industry", "Optimal Interest-Rate Smoothing"
 + 15/10: "The Science of Monetary Policy: A New Keynesian Perspective", "Fiscal and Monetary Regimes"
 
 ### 2025/2026
