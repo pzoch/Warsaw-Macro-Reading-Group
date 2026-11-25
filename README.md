@@ -8,7 +8,7 @@ Previous spreadsheet for 2025/2026 available [here](https://docs.google.com/spre
 
 > [!IMPORTANT]
 >
-> **NEXT MEETING:** TBA.
+> **NEXT MEETING:** 15 December 2026 at 18:00, room TBA.
 
 ## Log
 
